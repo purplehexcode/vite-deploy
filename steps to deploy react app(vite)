@@ -1,0 +1,6 @@
+1. create repo
+2. commit
+3. add deploy.yml 
+4. add base key in vite.config.js
+    base: '/'
+5. done
